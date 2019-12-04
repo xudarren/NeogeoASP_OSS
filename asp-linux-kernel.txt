@@ -1,0 +1,2 @@
+http://ugame-data.oss-cn-hangzhou.aliyuncs.com/linux-kernel.tar.bz2
+https://ugame-data.oss-cn-hangzhou.aliyuncs.com/linux-kernel.tar.bz2

@@ -1,0 +1,1 @@
+The Arcade Stick Pro console includes OSS distributed under OSS Licenses. In accordance with the OSS Licenses, we are making the source code of the OSS available to you.
